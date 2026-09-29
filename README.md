@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Nguyen!
 
-<!--
-**NguyenBk22/NguyenBk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me ℹ️
 
-Here are some ideas to get you started:
+- 👀 **Interests**: Backend systems, payments, and tools that make everyday tasks easier
+- 🌱 **Focus**: Software Developer (C#/.NET, Java/Spring Boot, React)
+- ⚡ **Background**: Computer Science graduate from HCMUT, based in Ho Chi Minh City, Vietnam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education 📚
+
+- **Degree**: Bachelor of Science in Computer Science (GPA 3.4/4.0)
+- **University**: Ho Chi Minh City University of Technology (HCMUT)
+- **English**: TOEIC 970/990
+
+## Skills 🛠️
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,js,react,py,postgres,mysql,redis,docker,git" />
+</p>
+
+## Collaboration 💞
+
+I'm open to collaborating on tech projects and learning from other developers.
+
+## Contact 📫
+
+- Email: nguyengianguyen02092004@gmail.com
